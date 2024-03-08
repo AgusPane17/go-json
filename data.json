@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "nombre":"Pepe",
+            "apellido":"Pepon",
+            "email":"pepe1234@gmail.com",
+            "edad": 55,
+            "color":"rojo"
+        },
+        {
+            "nombre": "Marcos",
+            "apellido": "Jorse",
+            "email": "jorseM32@hotmail.com",
+            "edad": 29,
+            "color": "verde"
+        },
+        {
+            "nombre": "Agustina",
+            "apellido":"Romero",
+            "email": "aRomero@gmail.com",
+            "edad": 19,
+            "color": "verde"
+        },
+        {
+            "nombre": "Cristina",
+            "apellido": "Sanchez",
+            "email":  "crisanchez@gmail.com",
+            "edad": 67,
+            "color": "amarillo"
+        },
+        {
+            "nombre": "Fernando",
+            "apellido":"Gilardi",
+            "email":"ferchuG@gmail.com",
+            "edad": 25,
+            "color": "morado"
+        }
+    ]
+}
